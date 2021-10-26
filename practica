@@ -1,0 +1,1305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="img/4.jpg">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="esculafinal.css"> 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <script src="https://kit.fontawesome.com/37f101bd70.js" crossorigin="anonymous"></script>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Scheherazade+New&display=swap" rel="stylesheet">
+    <title>Esculas final </title>
+</head>
+<body>
+  
+<div id="container">
+    
+<header class=" header" id="container_h">
+    
+		
+		<a id="p_header" href="#">
+			<span class="p_nombre">Patinamos?</span>
+			<span class="p_descrip">Historia / Clases / Tutoriales</span>
+		</a>
+
+    
+
+
+<!--Menu de navegacion-->
+<nav>
+    <ul class="nav__ul">
+       <li class="nav__li"><i class="fas fa-house-user"></i><a href="index.html">Inicio</a></li>
+       <li class="nav__li"> <i class="fas fa-users"></i><a href="escuelas.html">Escuela</a></li>
+       <li class="nav__li"> <i class="fa fa-book" aria-hidden="true"></i><a href="tutorial.html">Tutorial</a></li>
+       <li class="nav__li"><i class="fa fa-wrench" aria-hidden="true"></i><a href="mantenimiento.html"> Mantenimiento</a></li>
+    </ul>
+    <ul class="nav__responsive-ul">
+        <div class="nav__responsive-button"><i class="fas fa-bars"></i></div>
+        <div class="nav__li-container">
+        <li class="nav__responsive-li"><a href="index.html">Inicio </li>
+        <li class="nav__responsive-li"><a href="escuelas.html">Escuela </li>
+        <li class="nav__responsive-li"><a href="tutorial.html"> Tutorial</a></li>
+        <li class="nav__responsive-li"><a href="mantenimiento.html"> Mantenimiento</a></li>
+    </div>
+    </ul>
+    
+    </nav>
+</header>
+
+
+
+<!-- Consejos-->
+
+<h2>Escuela </h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit soluta voluptate porro. Soluta, accusamus. Minima vitae quisquam officiis nulla obcaecati ducimus dignissimos inventore in autem. Aperiam, itaque similique aliquid voluptate voluptates reiciendis! Laboriosam, modi. Explicabo ex laboriosam corrupti voluptatibus iure, commodi ea perspiciatis provident nam beatae praesentium voluptas dolor, sequi odit quia molestiae, dolorum accusantium aut sed enim? Autem necessitatibus ex, laudantium id minus, adipisci veniam esse similique excepturi consequatur iure soluta dolorem modi! Repellendus magnam tempore, at odio quidem sit voluptatibus odit quas quo hic perspiciatis eum nostrum nihil assumenda officiis, in, necessitatibus ea. Sequi, labore! Deleniti, numquam totam?</p>
+<div class="conteinerp p_box">
+
+    <div class="box"> 
+<!-- <h3>Equilibrio</h3> -->
+
+
+<div class="text_consejos">
+<p><img src="img/equilibrio.jpg" alt="">Existe esa delgada línea entre venir patinando como un campeón y zaaaz al piso.
+    Esa delgada línea entre estar lo más bien parado y zaaaaz al piso.
+    Entre... lo que sea... zaaaaz al piso!
+    
+    Muchas de las caídas que tenemos es por la falta de equilibrio. Y es que no estamos acostumbrados a estar con ruedas bajos los pies.
+    Pero no te preocupes, que si recién empezas te vas acostumbrando a esto. Tu cuerpo va ganando fuerza y estabilidad.
+    Desde los pies, los tobillos, las piernas, la zona abdominal! Si si, los ravioles también trabajan, son el punto clave para mantener al torso bien firme.
+    Los brazos también los usamos! No seríamos nada sin ellos.
+    
+    La inestabilidad la podes sentir con cada cosa nueva que intentes. Aunque ya sepas patinar un montón también te puede pasar. Nadie se salva del suelo. NADIE 
+    
+    Patinar es uno de los deportes más completos. Tiene más carga muscular en piernas, eso claro está!
+    Pero también depende mucho de la postura que uses al patinar.
+    Si patinas con las piernas estiradas no vas a aprovechar la fuerza total de tus cuádriceps y glúteos para avanzar.
+    
+    Les proponemos a todos que la próxima vez que salgan a patinar intenten flexionar más las rodillas y bajar la cola   mantener la postura más baja y a ver cuanto se la bancan!  
+    Van a ver cómo cambia todo  
+    
+    •E Q U I L I B R I O gracias por tanto, perdón por tan poco•
+    </p></div>
+ 
+
+
+<!-- <h3>FRENAR </h3> -->
+
+<div class="text_consejos">
+<p> <img src="img/fernar.jpg" alt=""> ”NO SE FRENAR”
+    Incontable las veces que escuchamos esto!
+    
+    Saber frenar es lo primero que tenes que aprender cuando ya logras ponerte en pie y deslizar. Es por un tema de seguridad. La tuya y la del resto.
+    
+    -Freno de taco
+    -Freno en cuña
+    -Freno en T
+    
+    A gusto del consumidor.
+    Si me dan a elegir, me quedo con el freno en cuña. Mucha más efectivo para bajar la velocidad de forma pareja, se puede graduar la intensidad de freno, se puede repetir varias veces hasta frenar en su totalidad (si todavía te cuesta eso es clave)
+    Un sin fin de combinaciones, para lograr un único objetivo: FRENAR!
+    Parece tan simple.
+    
+    ¿Cuanto tiempo más vas a estar sin SABER FRENAR?
+    En clase es lo primero que se ve, no te vas de tu primer clase sin logar frenar. Eso seguro!
+    
+    Levante la mano quien no pudo frenar alguna vez y casi muere en el intento!? Auch!   
+    </p>
+</div>
+
+
+
+    <!-- <h3>Obstáculos</h3> -->
+ 
+    <div class="text_consejos">
+    <p>    <img src="img/obstaculos.jpg" alt="">ǫᴜᴇ ɴᴀᴅᴀ ᴛᴇ ᴅᴇᴛᴇɴɢᴀ
+
+        Si de obstáculos vamos hablar tenemos charla para rato.
+        Porque desde el día 1 que todo lo que se nos cruce en el camino será un GRAN obstáculo.
+        Por más pequeños que sea >> desde una persona, un perro, un niño, una rama, una loma, empedrado, cualquier desnivel...una piedrita, agua, viento, el mismisimo aire   
+        Si no sabemos frenar bien. O esquivar. O subir y bajar. O cruzar.. saltar! o ir y venir.
+        Es fija que terminas mal  
+        
+        Sabemos que al principio solo van para adelante! En linea recta y nos más...
+        Por eso es que en nuestras clases vas a poder explorar muchas habilidades y recuerdos que son necesarios para poder sobre pasar todo eso.
+        
+        Para que puedas reaccionar ante cualquier situación que se te presente.
+        O quizá porque te gusta la adrenalina y patinar como un/a loco/ por la vida   
+        VALE TODO
+        </p>
+    </div>
+  
+    </div>
+</div>
+    <!--  Fin de Consejos-->
+    
+    <h3 id="h3"> Lugares donde dictamos nuestras clases<span>&#160</span> </h3>
+    
+<!--Lugar donde se dictan las clases-->
+
+
+<div class="art_lugar place">
+
+<article class="lugar">
+      <h2> Clases Rosedal </h2>
+        <img src="img/rosedal.jpg" alt="rosedal">
+    <p>La sede central de la escuela   tenemos clases todos los días, menos los domingos... bueno algún día hay que descansar che!
+
+        Acá vas a encontrarte con clases de todo tipo y con varios profes  </p>
+        <dl>
+        
+        
+        <dt> BASICO&URBANO INICIAL PRINCIPIANTES</dt>
+      
+        <dd>Martes 9 hs y 18.30/20.30 hs</dd>
+        <dd>Miércoles 19.30 hs</li>
+        <dd>Jueves 8/9 hs y 18.30/20.30 hs</dd>
+        <dd>Viernes 8/9/10 hs y 18.30/19.30 hs</dd>
+        
+        <dd> Sábados 8/9/10 hs</dd>
+        
+        <dd>FREESTYLE SLALOM</dd>
+        <dd>Lunes 20.30 hs</dd>
+        <dd>Martes 8 hs y 19.30 hs</dd>
+        <dd>Miércoles 20.30 hs</dd>
+        <dd>Jueves 19.30 hs</dd>
+        <dd> Viernes 8/9/10 hs</dd>
+        
+    <dd>Sábados 8/9/10 hs</dd>
+    </dl>
+
+    <div class="iframe" >
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d821.3419134346061!2d-58.41780031185138!3d-34.56956269445677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb575628f74e9%3A0x3893d80c38909c03!2sAv.%20Infanta%20Isabel%20555%2C%20Buenos%20Aires!5e0!3m2!1ses!2sar!4v1634201983099!5m2!1ses!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+</article>
+
+    <article class="lugar">
+        <h2>Clases puerto madero </h2>
+        <img src="img/puertomadero.jpg" alt="">
+        <p>Así es!! Llegamos a Puerto Madero!!
+            A fin de mes abrimos 2 días semanales para que vengas a rollear con nosotro@s!
+            
+            Si queres empezar a patinar, perfeccionarte y aprender cosas lindas, súmate a las clases!
+            
+            ʙᴀsɪᴄᴏ ɪɴɪᴄɪᴀʟ ᴘʀɪɴᴄɪᴘɪᴀɴᴛᴇs
+            ᴜʀʙᴀɴᴏ
+            ғʀᴇᴇsᴛʏʟᴇ sʟᴀʟᴏᴍ
+            ʏ ᴋɪᴅs! </p>
+            
+            <dl> DÍAS Y HORARIOS
+            <dd> Lunes y Miércoles</dd>
+            <dd> 18.30 hs > KIDS</dd>
+            <dd>19.30 hs > ADULTOS</dd>
+            <dd>FREESTYLE SLALOM</dd>
+        <dd>Lunes 20.30 hs</dd>
+        <dd>Martes 8 hs y 19.30 hs</dd>
+        <dd>Miércoles 20.30 hs</dd>
+        <dd>Jueves 19.30 hs</dd>
+        <dd> Viernes 19.30/21/22.30 hs</dd>
+        </dl>
+        <br><br>
+        <div class="iframe" >
+            <iframe   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3283.5844184762964!2d-58.363048448441596!3d-34.61466886549016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a3353e76157b97%3A0x2cc7023b4f4f1a06!2sPlaza%20de%20las%20Dunas!5e0!3m2!1ses!2sar!4v1634201922764!5m2!1ses!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+    
+</article>
+<article class="lugar"> 
+        <h2>Plaza Housey </h2>
+        <img class="img_lugar" src="img/houssay.jpg" alt="">
+        <p>
+            Estás por Recoleta?
+
+            Plaza Houssay tiene un espacio nuevo para que puedas aprovechar patinar y practicar cerca de tu casa/trabajo.
+            
+            <dl>¿Te queres sumar?
+            
+            <dd>Clases kids</dd>  
+            <dd> LUNES Y MIÉRCOLES 18 hs</dd>
+            
+        <dd> Clases adultos</dd>
+    <dd> LUNES 19 hs</dd>
+    <dd>FREESTYLE SLALOM</dd>
+        <dd>Lunes 20.30 hs</dd>
+        <dd>Martes 8 hs y 19.30 hs</dd>
+        <dd>Miércoles 20.30 hs</dd>
+        <dd>Jueves 19.30 hs</dd>
+        <dd> Viernes 8/9/10 hs</dd>
+        <dd>Sábados 8/9/10 hs</dd>
+                
+        <br>
+        <br>
+    
+        </dl>
+    </p>
+    <div class="iframe" ></div>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3284.207683633949!2d-58.3977498286066!3d-34.5989094927008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca944582dea1%3A0x1187bb1c0c4c27b0!2sPlaza%20Dr.%20Bernardo%20Houssay!5e0!3m2!1ses!2sar!4v1634201844206!5m2!1ses!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+</article>
+
+</div>
+<!-- fin de Lugar donde se dictan las clases-->
+
+
+<h3>Para consultas contactenos</h3>
+<!--formulario -->
+<div class="container boostrap">
+<form class="row g-3 needs-validation" novalidate>
+    <div class="col-md-4">
+      <label for="validationCustom01" class="form-label" >Nombre </label>
+      <input type="text" class="form-control" id="validationCustom01" value="" required placeholder="Ingrese su nombre">
+      <div class="valid-feedback" > 
+        Looks good!
+      </div>
+    </div>
+    <div class="col-md-4">
+      <label for="validationCustom02" class="form-label">Apellido</label>
+      <input type="text" class="form-control" id="validationCustom02" value="" required placeholder="Ingrese su apellido">
+      <div class="valid-feedback">
+        Looks good!
+      </div>
+    </div>
+    <div class="col-md-4">
+      <label for="validationCustomUsername" class="form-label">Correo</label>
+      <div class="input-group has-validation">
+        <span class="input-group-text" id="inputGroupPrepend">@</span>
+        <input type="text" class="form-control" id="validationCustomUsername" aria-describedby="inputGroupPrepend" required >
+
+        <div class="invalid-feedback">
+          Please choose a username.
+        </div>
+      </div>
+    </div>
+    
+        <div class="mb-3">
+          <label for="validationTextarea" class="form-label">Textarea</label>
+          <textarea class="form-control is-invalid" id="validationTextarea" placeholder="Required example textarea" required></textarea>
+          <div class="invalid-feedback">
+            Please enter a message in the textarea.
+          </div>
+        </div>
+      
+        
+      
+        <div class="mb-3">
+          <select class="form-select" required aria-label="select example">
+            <option value="">Selecione el lugar por el cual deasea consultar</option>
+            <option value="1">Rosedal</option>
+            <option value="2">Puerto Madero</option>
+            <option value="3">Plaza Houssay</option>
+          </select>
+          
+          <div class="invalid-feedback">Example invalid select feedback</div>
+        </div>
+      
+        
+     
+    </div>
+    
+      </select>
+    
+    </div>
+    
+    <div class="col-12">
+      <div class="form-check">
+        <input class="form-check-input" type="checkbox" value="" id="invalidCheck" required>
+        <label class="form-check-label" for="invalidCheck">
+          terminos y condiciones 
+        </label>
+        <div class="invalid-feedback">
+          You must agree before submitting.
+        </div>
+      </div>
+    </div>
+    <div class="col-12">
+      <button class="btn btn-primary" type="submit">enviar</button>
+    </div>
+  </form>
+</div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+</div>
+</body>
+
+
+
+    <aside> 
+
+        <div id="animacion">
+            <div id="patin"></div>
+            </div>    
+        
+        
+            <div class="efecto_h1">
+                <H1>Recuerden, que patiamos porque es divertido.<span>&#160</span> </H1>
+            
+            </div>
+        </aside><br>
+        
+        
+        <!-- desde aca comienza el footer -->
+        <footer>
+        
+        <div class="container-footer-all">
+            <div class="container-colum">
+           <div class="colum1">
+               <h4>Informacion brindada por el Crazy People Skate Shop.</h4>
+                   <p>Somos un grupo amantes del patin en linea con uan trajectoria esuperior a 30años n el ambiente de la cultra urbana, agradecemos su vista</p>
+           
+           </div>
+           
+               
+           <div class="colum2">
+        <h3>Redes Sociales</h3>
+    </div>
+           <div class="colum3">
+               <div id="redes">
+                   <button><i class="fab fa-facebook-square"></i></button></div>
+                       
+               <div id="redes">
+                   <button><i class="fab fa-twitter"></i></button></div>
+                       
+               <div id="redes">
+                   <button><i class="fab fa-instagram"></i></button></div>
+                   
+               </div>
+            </div>
+               </div>
+            </footer>
+
+</html>
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+
+
+    
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Scheherazade New', serif;
+  color:white;
+  background: #5c5a5a; 
+  font-size: 1em;
+  line-height: 1.5em;
+  overflow: hidden;
+
+  
+}
+
+   /* efecto del H1 */ 
+   .efecto_h1{
+    margin:right;
+  
+  }
+  h1{
+    float:center;
+    color: white;
+    position: relative;    
+    text-transform: uppercase;
+  
+  }
+  
+  h1 span {
+  position:absolute;
+  right:0;
+  width:0;
+  background:#5c5a5c;
+  border-left: 1px solid #5c5a5c;
+  animation: maquina 7s infinite alternate steps(44);
+  
+  }
+  @keyframes maquina{
+    from{
+      width: 100%;
+    }
+    to{
+      width: 0%;
+  
+    }
+  }
+
+
+
+h1{
+ padding-top:75px; 
+}
+
+h2 {
+  color:White;
+  margin: 10px 10px 20px 10px;
+  padding-top: 65px;
+  text-align: center;
+}
+
+/*  Menu   (no lo puedo hacer responsive)  */ 
+#p_header {
+  float: left;
+  padding: 15px 0 0 20px;
+  text-decoration: none;
+  color: white;
+}
+  #p_header:hover {
+      color:rgb(147, 72, 245);
+      transition: 400ms ease-in-out;
+  }
+  
+  #p_header .p_nombre {
+      display: block;
+      font-weight: 700;
+      font-size: 1.2em;
+  }
+  
+  #p_header .p_descrip {
+      display: block;
+      font-weight: 300;
+      font-size: 0.8em;
+      color: #999;
+      
+  }
+  
+  img {
+      max-width: 100%;
+      height: auto;
+  }
+
+  /* menu*/
+
+
+nav {
+  float: right;
+  color:white; 
+}
+.nav__responsive-ul{
+    display: none;
+    
+}
+.nav__ul{
+background-color:#000;
+margin: 0;
+padding: 0;
+list-style: none;
+
+color: white;
+}
+.nav__li{
+display: inline-block; 
+padding: 20px;          
+
+color:#fff;
+}
+
+.nav__li:hover > a{
+  
+    color:rgb(147, 72, 245);
+}
+.nav__li a {
+
+    color: #fff;
+    text-decoration: none;
+}
+.nav__li i{
+width: 30px;
+box-sizing: border-box;
+text-align:left;
+margin-right: 7px;
+}
+.nav__responsive-button-conteiner{
+    position: absolute;
+    width: 100%;
+    font-size: 25px;
+    background-color: #000;
+    margin-top:-37px;
+}
+.nav__responsive-button{
+ padding:6px 20px;
+ text-align: right;
+ width:100%;
+}
+@media only screen and (max-width:767px) {
+  .nav__ul{
+      display: none;
+      }
+      .nav{
+          height:37px;
+          width:100%;
+          background-color: #69c;
+          
+      }
+      .nav__responsive-ul{
+          display:block;
+          position: abusolute;
+          width: 100%;    
+          background-color:#000;
+          height: 100%;
+         
+          }
+      
+      
+      
+      .nav__responsive-li  {
+          width:100%;
+          padding:9px;
+      }
+      .nav__responsive-li i {
+          box-sizing: border-box;
+          text-align:right;
+          margin-right: 5px;
+          width: 30px;
+          color:#0185;
+      }
+      .nav_responsive-li a {
+      color:#0185;
+      text-decoration: none;
+      }
+      }  
+
+   #container_h{
+  background: rgb(17, 17, 17);
+                  
+  height: 80px;	
+  width: 100%; /* hacemos que la cabecera ocupe el ancho completo de la página */
+  left: 0; /* Posicionamos la cabecera al lado izquierdo */
+  top: 0; /* Posicionamos la cabecera pegada arriba */
+  position: fixed; /* Hacemos que la cabecera tenga una posición fija */
+              
+              }
+
+
+/* consejos*/
+
+
+
+
+.box { 
+    width: 95%;
+    max-width: auto;
+    margin: 20px auto;
+    display: grid;
+    grid-gap:20px;
+    grid-template-columns: repeat(3 ,1fr);
+    text-align: center;
+    background: linear-gradient(90deg, #5c5a5c 0%,rgb(84, 19, 100)50%, #5c5a5c 100%);;
+
+   }
+.box img{
+   width: 1fr;
+   height: 100%;
+   margin:auto;
+   display: block;
+   border-radius: 20px;
+   
+}
+    
+
+ 
+
+   
+
+/* }
+.consejos img p {
+    float: right;
+    
+} */
+ h3 {
+padding-top: 0;
+text-align: center;
+}
+/* Lugar   */ 
+
+/* Gaby aca quiero poner una imagen(IMG) al aldo de la otra abajo los horarios(P) y despues Iframe pero to dcone los mismo tamaño. */
+
+.art_lugar article{
+
+  padding: 15px;
+}
+.art_lugar {
+ 
+  max-width: 1200px;
+  width: 95%;
+  margin:auto;
+  background:linear-gradient(90deg, #5c5a5c 0%,rgb(84, 19, 100)50%, #5c5a5c 100%);
+ 
+  }
+
+   .lugar img {
+     border-radius: 30%;
+    display:block;
+    color: white;
+    padding-right: 50px;
+    padding-left: 50px;
+    text-decoration: none;  
+    
+
+  }
+
+
+
+iframe {
+width: 400px; 
+height: 400px
+}
+/* probando footer  no me qedan bien los iconos de las redes sociales */
+
+footer{
+  
+    width: 95%;
+    background:linear-gradient(90deg, #5c5a5c 0%,rgb(84, 19, 100)50%, #5c5a5c 100%);
+    color: white;
+      
+  
+  }
+  .container-footer-all .container-colum{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap:50px;
+    padding: 45px 10px;
+    
+  }
+  
+  .container-footer-all .container-colum #redes i:hover{
+  
+    color:rgb(17, 17, 17);
+    background-color:white;
+    align-items: center;
+  }
+  
+  button{
+      width:1fr;
+      height:1fr;
+      background-color: #5c5a5c;
+      box-sizing: 25px;
+      border:none;
+      cursor: pointer;
+     
+      color: #eaf1f1;
+      font-size:30px;
+      
+      
+  }
+/*------------media-----*/
+  @media (min-width:955px) {
+    .place {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        
+    }
+
+
+    .contenerdor_consejos {
+        display: flex;
+        justify-content: space-between;
+        
+    }
+    .consejos {
+        flex-basis: calc(33.3% - 1rem);
+    }
+   
+  }
+  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="img/4.jpg">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <script src="https://kit.fontawesome.com/37f101bd70.js" crossorigin="anonymous"></script>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Scheherazade+New&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="index7.css"> 
+    
+    
+<title>Patinaje urbano</title>
+</head>     
+<body class="contenedor">
+
+
+    <div id="container">
+    
+        <header class=" header" id="container_h">
+            
+                
+                <a id="p_header" href="#">
+                    <span class="p_nombre">Patinamos?</span>
+                    <span class="p_descrip">Historia / Clases / Tutoriales</span>
+                </a>
+
+
+<!--Menu de navegacion-->
+<nav>
+<ul class="nav__ul">
+   <li class="nav__li"><i class="fas fa-house-user"></i><a href="index.html">Inicio</a></li>
+   <li class="nav__li"> <i class="fas fa-users"></i><a href="escuelafinal.html">Escuela</a></li>
+   <li class="nav__li"> <i class="fa fa-book" aria-hidden="true"></i><a href="tutorial.html">Tutorial</a></li>
+   <li class="nav__li"><i class="fa fa-wrench" aria-hidden="true"></i><a href="mantenimiento.html"> Mantenimiento</a></li>
+</ul>
+<ul class="nav__responsive-ul">
+    <div class="nav__responsive-button"><i class="fas fa-bars"></i></div>
+    <div class="nav__li-container">
+    <li class="nav__responsive-li"><a href="index.html">Inicio </li>
+    <li class="nav__responsive-li"><a href="escuelas.html">Escuela </li>
+    <li class="nav__responsive-li"><a href="tutorial.html"> Tutorial</a></li>
+    <li class="nav__responsive-li"><a href="mantenimiento.html"> Mantenimiento</a></li>
+</div>
+</ul>
+
+</nav>
+<!-- <nav class="nav" id= "menu">
+ <ul>
+    <li  id="quines somos"></li>       
+    <li  id="mision" ><a href="index.html">Inicio </li>
+    <li  id="escuela" ><a href="escuelas.html">Escuela </li>
+    <li  id="staff"><a href="tutorial.html"> Tutorial</a></li>
+    <li  id="staff"><a href="mantenimiento.html"> Mantenimiento</a></li>
+    
+    
+</ul>
+
+
+</nav> -->
+</header>
+
+
+
+
+
+
+<!--un articulo en el cual se enumeras los difentes tipos de patinaje-->
+
+<h1 class="h1">Patinaje urbano en buenso aires</h1>
+
+<article class="articulo">
+
+<section class="section1">
+    <div class="introduccion">
+    <h2> Que es el patinaje?</h2>
+
+    <p>Aprender a patinar nos ayudará a disfrutar de una experiencia magnífica que cuenta con una gran cantidad de seguidores a lo largo de todo el mundo. Lo cierto es que esta actividad estaba muy de moda en la década de los años 90, y en los primeros años del 2000. A partir de ese momento ya no era tan popular pero ahora, a partir del 2015, se ha vuelto a poner de moda.
+
+    Aprender a patinar (tanto como si lo haces al aire libre, como si quieres aprender a patinar sobre hielo), es una actividad muy divertida, al mismo tiempo que sana y adaptada para todo tipo de usuario. Además, el patinaje para su aprendizaje suele ser bastante sencillo, y es que si se practica lo suficiente, y con tan solo trabajar con un mínimo de psicomotricidad y habilidad, podremos mejorar la técnica hasta convertirnos en unos auténticos virtuosos de este deporte.
+
+    aprender a patinar
+
+     Una de las principales ventajas de aprender a patinar los adultos o niños es que nos podremos desplazar más fácil y cómodamente a lo largo de la ciudad. Y es que vivimos en un mundo en el que estamos sobresaturados de vehículos: muchas personas cogen su coche para, incluso, ir tan sólo a la esquina, y esto hace que nos encontremos en atascos muy tontos que podríamos haber evitado con tan solo patinar un poco. Si damos algunas clases de patinaje sencillas, podremos plantarnos en cualquier parte haciendo un poco de ejercicio, de una forma más o menos rápida y, sobre todo, sin contaminar el medio ambiente.
+
+    Existen muchas maneras de patinar, existe lo que se conoce como patines adaptados; estamos hablando de unas zapatillas con ruedas pequeñas que pueden convertirse en calzado normal en cualquier momento. Otra buena idea es aprender a patinar sobre hielo, pero para ello necesitaremos tener un equilibrio bastante logrado, ya que la probabilidad de caernos en él es bastante grande.</p>
+
+
+
+</div>
+</section>
+
+<section class="section2">
+
+<!-- <div class="portada-disiplinas"><img src="img/13.jpg" alt=patin></div> -->
+
+<!-- quiero tocar una foto y que vaya a una parte del texto-->
+
+<div class="conteinerp p_box">
+<div class ="box">
+
+    <div class="tipos" id="fitnes"><img src="img/fitness1.jpg">Fitness
+
+</div>
+ 
+    <div class="tipos" id="aggre"><img src="img/10.jpg">Aggressive</div>
+
+
+<div class="tipos" id="kids"><img src="img/kid4.jpg">Kids</div>
+
+<div class="tipos" id="slalom"><a href=".pu_sla"><img src="img/9.jpg"></a>  Slalom</div>
+
+<div class="tipos" id="race"><img src="img/race2.jpg">Race</div>
+
+<div class="tipos" id="aggre"><img src="img/11.jpg">PEL</div>
+
+</div>
+
+</div></div>
+
+
+
+
+
+<div class="clases">
+
+    <h1> Distintas disciplinas</h1>
+
+    <h3>Fitness</h3>
+    <div><p>FITNESS
+Para los que recién arrancan y necesitan los primeros pasos y también para los que necesitan perfeccionamientos.
+Técnicas de postura. Equilibro. Deslizamiento. Distintos tipos y variedades de frenar. Habilidades con conos. Empujes y técnicas de patinaje. Técnicas para velocidad. Patinaje hacia atrás. Resistencia. Entrenamiento Físico. 
+Ya sea para tener los movimientos básicos para disfrutar plenamente de patinar o para perfeccionarte y animarte a mas!</p></div>
+<h3>SLALOM</h3>
+    <div><p>FREESTYLE SLALOM Trucos. Movimientos. Destrezas entre conos pequeños distanciados a una misma medida. 
+El freestyle slalom es una modalidad del patinaje en línea que consta de realizar diferentes trucos en una fila de pequeños conos situados a diferentes distancias (120cm, 80cm y 50cm)
+El slalom es mas fácil de lo que parece y cualquiera puede hacerlo. Ademas de que es divertido se adquiere un mayor control y mucha confianza a la hora de patinar ya que constantemente se estan realizando movimientos y maniobras que mejoran las habilidades. Manejas tu cuerpo a tu gusto sobre los patines, sentite libre de moverte y expresarte sobre los conos.</p></div>     
+<h3>Agressive</h3>
+    <div><p> El patinaje agresivo es una modalidad del patinaje surgida durante los años 80.Sus principales impulsores fueron Chris Edwards y Arlo Eisenberg.En el patinaje agresivo se utilizan unos patines especiales que cuentan con espacio en la pista del patín, y en la suela para poder grindar (deslizar) en bordillos. Las ruedas de los patines de agresivo son más gruesas que la de los patines comunes, variando su diámetro entre los 56 y 59 mm.Durante los últimos años el deporte ha adquirido muchos adeptos y en países latinoamericanos.
+Actualmente la escena del patinaje agresivo está resurgiendo. </p> </span></div>
+<h3>RACE</h3>
+    <div  ><p> El patinaje de velocidad sobre ruedas o patinaje de velocidad en línea es una modalidad de carrera de patinaje de velocidad que se realiza con patines en línea. Los competidores deben realizar vueltas a una pista ovalada con el objetivo de llegar a la meta en el menor tiempo posible.Es un deporte que demanda una alta preparación física y mental; por lo tanto un deporte aeróbico ya que requiere de ritmos constantes de oxígeno, al igual que se requiere una alta demanda anaeróbica, por la necesidad de explosión en un momento dado en las pruebas cortas. En él se combina fuerza, habilidad y resistencia. Siempre se acondicionan así mismos para resistir todo el recorrido rodando lo más rápido posible, planeando estrategias que lo lleven a cruzar la línea de meta en el primer lugar.1​</p></div>
+    <h3>KIDS</h3>
+    <div  ><p>Contribuye a mejorar el estado físico aumentando la resistencia aeróbica, activado la circulación sanguínea, fortaleciendo piernas, pulmones y corazón. Contribuye además a desarrollar el equilibrio, la concentración y la coordinación; aportando mejoras destacadas en niños con pequeñas dificultades motrices.
+    </p></div>
+    <h3>Paseos por la ciudad</h3>
+    <p> PEL es un grupo que cuenta con una trayectoria organizando diversos paseos por la ciudad para todos los niveles. Es un grupo augestionado que no tiene lideres simplemente es el colectivo que se organiza para realizar un paseo recreativo por la ciudad. Los puntos de encuentro son en el Roseda, Puerto madero y Nuñez. Las salidas suelen ser en horario noctucturno.</p>
+
+   
+    
+</div>
+
+
+
+</section>
+</article>
+
+</body>
+<br>
+
+
+<aside> 
+
+<div id="animacion">
+    <div id="patin"></div>
+    </div>    
+
+
+    <div class="efecto_h1">
+        <H1>Recuerden, que patiamos porque es divertido.<span>&#160</span> </H1>
+    
+    </div>
+</aside><br>
+
+
+<!-- desde aca comienza el footer -->
+<footer>
+
+<div class="container-footer-all">
+   <div class="colum1">
+       <h4>Informacion brindada por el Crazy People Skate Shop.</h4>
+           <p>Somos un grupo amantes del patin en linea con uan trajectoria esuperior a 30años n el ambiente de la cultra urbana, agradecemos su vista</p>
+   
+   </div>
+   
+       
+   
+<h3>Redes Sociales</h3>
+   <div class="colum2">
+       <div id="redes">
+           <button><i class="fab fa-facebook-square"></i></button></div>
+               
+       <div id="redes">
+           <button><i class="fab fa-twitter"></i></button></div>
+               
+       <div id="redes">
+           <button><i class="fab fa-instagram"></i></button></div>
+           
+       </div>
+       
+       </div>
+    </footer>
+
+</html>
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+    
+body {
+        margin: 0;
+        padding: 0;
+        font-family: 'Scheherazade New', serif;
+        color:white;
+        background: #5c5a5a; 
+        font-size: 1em;
+        line-height: 1.5em;
+
+        
+    }
+
+
+.contenedor { 
+
+        width: 90%;
+        max-width: 1000px;
+        margin: 20px auto;
+        display: grid;
+        grid-gap:20px;
+    }
+   
+    #p_header {
+        float: left;
+        padding: 15px 0 0 20px;
+        text-decoration: none;
+        color: white;
+      }
+        #p_header:hover {
+            color: yellowgreen;
+            transition: 400ms ease-in-out;
+        }
+        
+        #p_header .p_nombre {
+            display: block;
+            font-weight: 700;
+            font-size: 1.2em;
+        }
+        
+        #p_header .p_descrip {
+            display: block;
+            font-weight: 300;
+            font-size: 0.8em;
+            color: #999;
+            
+        }
+        
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 50%;
+        }
+     
+        /* p {
+            margin: 0 0 1.5em 0;
+        } */
+        
+
+nav{
+        float:right;
+    }
+
+.nav__responsive-ul{
+        display: none;
+            
+        }
+
+.nav__ul{
+        background-color:#000;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    
+        color: white;
+        }
+        .nav__li{
+        display: inline-block; 
+        padding: 20px;          
+        
+        color:#fff;
+        }
+        
+.nav__li:hover > a{
+
+        color:rgb(147, 72, 245);
+        }
+
+.nav__li a {
+        
+         color: #fff;
+        text-decoration: none;
+        }
+        .nav__li i{
+        width: 30px;
+        box-sizing: border-box;
+        text-align:left;
+        margin-right: 7px;
+        }
+
+.nav__responsive-button-conteiner{
+        position: absolute;
+        width: 100%;
+        font-size: 25px;
+        background-color: #000;
+        margin-top:-37px;
+        }
+
+.nav__responsive-button{
+         padding:6px 20px;
+         text-align: right;
+         width:100%;
+        }
+p {
+        margin-left:10px;
+    }
+    
+    
+  
+    
+    
+h3{
+       position: relative;
+       text-align:center;
+    
+    }
+
+.box { 
+         width: 95%;
+         max-width: auto;
+         margin: 20px auto;
+         display: grid;
+         grid-gap:20px;
+         grid-template-columns: repeat(3 ,1fr);
+         grid-template-rows: repeat(2 ,1fr);
+         text-align: center;
+        }
+.box img{
+        width: 1fr;
+        height: 100%;
+        margin:auto;
+        display: block;
+        border-radius: 60px;
+        
+    }
+    h1 {
+        box-sizing: 50px;
+        font-size: 2.3em;
+        line-height: 1.3em;
+        margin: 60px auto;
+        text-align: center;
+        font-weight: 300;
+        z-index: -1;
+    
+    }
+    .header{
+        background-color: #5c5a5c;
+        color:white;
+
+    }
+
+.header a { 
+        color:white;
+        text-decoration: none;
+}
+.p_box{
+        display:flex;
+        justify-content:space-between;
+    }
+.tipos  {
+        flex-direction: column;justify-content: space-between;
+}
+.tipos img{
+    
+        width: 100%;
+        object-fit: cover;
+}
+.tipos img:hover{
+    border-radius: 0%;
+    transition: .5s;
+
+}
+  
+
+
+
+
+
+#container_h{
+    background: rgb(17, 17, 17);
+	height: 80px;	
+	width: 100%; 
+	left: 0; 
+	top: 0; 
+	position: fixed; /* posición fija */
+
+}
+
+
+.conteinerp{
+
+    background: linear-gradient(90deg, #5c5a5c 0%,rgb(84, 19, 100)50%, #5c5a5c 100%);
+    
+    display: flex;
+}
+ .tipos:hover {
+    background: #48465d;
+     color: aquamarine;
+     cursor: pointer;
+}
+
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+
+}
+
+@media only screen and (max-width:767px) {
+    .nav__ul{
+        display: none;
+        }
+        .nav{
+            height:37px;
+            width:100%;
+            background-color: #69c;
+            
+        }
+        .nav__responsive-ul{
+            display:block;
+            position: abusolute;
+            width: 100%;    
+            background-color:#000;
+            height: 100%;
+           
+            }
+        
+        
+        
+        .nav__responsive-li  {
+            width:100%;
+            padding:9px;
+        }
+        .nav__responsive-li i {
+            box-sizing: border-box;
+            text-align:right;
+            margin-right: 5px;
+            width: 30px;
+            color:#0185;
+        }
+        .nav_responsive-li a {
+        color:#0185;
+        text-decoration: none;
+        }
+        }
+
+
+/* probando footer  no me qedan bien los iconos de las redes sociales */
+
+footer{
+background-color: #6a5f94;
+margin-right: 15px;
+background: linear-gradient(90deg, #5c5a5c 0%,rgb(84, 19, 100)50%, #5c5a5c 100%);
+    
+
+}
+.colum2{
+  display: flex;
+  
+}
+
+.colum2 #redes{
+
+  padding-left: 15px;
+  margin-left: 15px;
+}
+button{
+    width:1fr;
+    height:1fr;
+    background-color: rgba(82, 19, 184, 0.678);
+    border-radius: 15px;
+    border:none;
+    cursor: pointer;
+    padding: 10px;
+    color: yellow;
+    font-size:30px;
+    
+
+}
+/* animacion  se me corta la cabeza!! */
+
+aside #animacion {
+    overflow: hidden;
+    
+  }
+  
+  #patin {
+    margin-top: 30px;
+    background-image: url(img/23.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 300px;
+    width: 500px;
+  }
+  #animacion:hover #patin {
+    margin-left: 100%;
+    transition: all 2.6s;
+    transition-timing-function:cubic-bezier(1, 0.5, 0.22, 1)
+  }
+  
+
+    /* efecto del H1 */ 
+.efecto_h1{
+    margin: left;
+  
+  }
+  h1{
+    float:center;
+    color: white;
+    position: relative;    
+    text-transform: uppercase;
+  
+  }
+  
+  h1 span {
+  position:absolute;
+  right:0;
+  width:0;
+  background:#5c5a5c;
+  border-left: 1px solid #5c5a5c;
+  animation: maquina 7s infinite alternate steps(44);
+  
+  }
+  @keyframes maquina{
+    from{
+      width: 100%;
+    }
+    to{
+      width: 0%;
+  
+    }
+  }
+/* 
+Escula */
+.contenedor_consejos {
+   background-color:red;
+   display: grid;
+   grid-template-columns: repeat( 3 , 1fr);
+
+}
+.lugar {
+
+background-color:green;
+display: grid;
+grid-template-columns: repeat( 3 , 1fr);
+
+margin: 5px 0px;
+   
+}
+
+.art_lugar {
+    align-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: no-wrap;
+    justify-content: row-reverse;  
+}    
+
+@media screen and (min-width: 1024px) {
+    footer {     margin-bottom: 0;   }
+  
+    .header {
+      position: sticky;
+      top: 0;
+      padding: 0rem 0.5rem;
+      height: var(--altura-header);
+    }
+  
+    section {
+      max-width: var(--ancho-max);
+      margin: 0 auto;
+    }
+}
